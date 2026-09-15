@@ -8,7 +8,7 @@ Diagnostics, logs, audits, content-addressed proofs.
 
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
-| dsh-research-report | 107 | [PerryLink/dsh-research-report](https://github.com/PerryLink/dsh-research-report) · [npm](https://www.npmjs.com/package/dsh-research-report) | Verifiable research-report engine for DeepSeek Harness: a content-addressed evidence ledger (claim ↔ snapshot binding, tamper-evident) plus versioned sealed reports where every claim carries a | 0.1.0-rc.8 (2026-08-20) |
+| dsh-research-report | 108 | [PerryLink/dsh-research-report](https://github.com/PerryLink/dsh-research-report) · [npm](https://www.npmjs.com/package/dsh-research-report) | Verifiable research-report engine for DeepSeek Harness: a content-addressed evidence ledger (claim ↔ snapshot binding, tamper-evident) plus versioned sealed reports where every claim carries a | 0.1.0-rc.8 (2026-08-20) |
 | PrismFlowAgent | 88 | [justlovemaki/PrismFlowAgent](https://github.com/justlovemaki/PrismFlowAgent/tree/HEAD/integrations/dsh) | Native PrismFlow plugins and one-stop dashboard for DeepSeek Harness | 0.1.1-rc.2 (2026-09-04) |
 | dsh-status-rotator | 82 | [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) · [npm](https://www.npmjs.com/package/dsh-status-rotator) | Rotates the DSH chat turn-status label ("Deep diving...") through user-defined phrases every few seconds. | 0.1.0-rc.8 (2026-08-20) |
 | dsh-whale-report | 31 | [SenmuuuuW/dsh-whale-report](https://github.com/SenmuuuuW/dsh-whale-report) | 鲸鱼记事本 — 你的 Agent 年度/月度/周度/日报：从会话事件日志生成数据新闻官式报告，任意区间、定时生成。 | 0.1.0-rc.8 (2026-08-20) |
@@ -35,6 +35,7 @@ Diagnostics, logs, audits, content-addressed proofs.
 | dsh-plugin-ui-debug | 5 | [FeatherHunter/dsh-plugin-ui-debug](https://github.com/FeatherHunter/dsh-plugin-ui-debug) | DSH 插件 UI 调试神器：让 AI 在真实 Chrome（Playwright）中自动看界面、点按钮、拖组件，一键安装零配置 | 0.1.0-rc.8 (2026-08-24) |
 | dsh-adaptive-context | 4 | [Icstick/dsh-adaptive-context](https://github.com/Icstick/dsh-adaptive-context) | Adaptive Context Plane core bundle: Evidence Ledger + Governance + Context Composer + User Model (explicit) | 0.1.1-rc.2 (2026-09-01) |
 | dsh-character-profiler | 4 | [MlittleFriend/dsh-character-profiler](https://github.com/MlittleFriend/dsh-character-profiler) | DSH 写作插件：角色性格侧写档案 + 出场权重/占比统计 + 行为偏离度检测。为长篇小说提供人物一致性的量化监控。 | 0.1.0-rc.8 (2026-08-20) |
+| dsh-gungnir | 4 | [Jonah-Wu23/dsh-gungnir](https://github.com/Jonah-Wu23/dsh-gungnir) | Gungnir — durable, evidence-driven goal reconciliation runtime for DeepSeek Harness (tree-out plugin family). | 0.1.1-rc.2 (2026-09-04) |
 | dsh-verification-receipt | 4 | [030611/dsh-verification-receipt](https://github.com/030611/dsh-verification-receipt) · [npm](https://www.npmjs.com/package/dsh-verification-receipt) | Privacy-minimal heuristic per-turn execution summaries for DeepSeek Harness | 0.1.0-rc.8 (2026-08-20) |
 | dshx-liyown | 4 | [liyown/dshx](https://github.com/liyown/dshx/tree/HEAD/packages/dshx) | Build and debug DeepSeek Harness Host and Client plugins. | 0.1.1-rc.2 (2026-09-04) |
 | MathModelingAgent | 4 | [yohanchen1/MathModelingAgent](https://github.com/yohanchen1/MathModelingAgent) | Evidence-driven mathematical modeling and verification skills for DeepSeek Harness | 0.1.0-rc.8 (2026-08-24) |
@@ -42,7 +43,6 @@ Diagnostics, logs, audits, content-addressed proofs.
 | dsh-capability-receipt | 3 | [dongsheng123132/dsh-capability-receipt](https://github.com/dongsheng123132/dsh-capability-receipt) | Content-addressed receipts for skills actually loaded by DeepSeek Harness | 0.1.0-rc.8 (2026-08-20) |
 | dsh-debug-mode | 3 | [a554878526/dsh-debug-mode](https://github.com/a554878526/dsh-debug-mode) | Runtime-first Debug Mode plugin for DeepSeek Harness | 0.1.0-rc.8 (2026-08-20) |
 | dsh-eval | 3 | [hccccc01333/dsh-eval](https://github.com/hccccc01333/dsh-eval/tree/HEAD/packages/eval) · [npm](https://www.npmjs.com/package/dsh-eval) | Agent evaluation platform: benchmark YAML, headless run orchestration, trace-based metrics, and run reports | 0.1.0-rc.8 (2026-08-20) |
-| dsh-gungnir | 3 | [Jonah-Wu23/dsh-gungnir](https://github.com/Jonah-Wu23/dsh-gungnir) | Gungnir — durable, evidence-driven goal reconciliation runtime for DeepSeek Harness (tree-out plugin family). | 0.1.1-rc.2 (2026-09-04) |
 | dsh-hos-scrcpy | 3 | [ns-zzj/dsh-hos-scrcpy](https://github.com/ns-zzj/dsh-hos-scrcpy/tree/HEAD/PluginMain-Static) | DSH 鸿蒙投屏控制插件（静态 npm 包版）：设备发现 / 实时投屏 / 触控操作 / 系统按键 / hilog 日志 | 0.1.0-rc.8 (2026-08-20) |
 | dsh-lineage | 3 | [dongsheng123132/dsh-lineage](https://github.com/dongsheng123132/dsh-lineage) | Content-addressed data and action lineage evidence for DeepSeek Harness | 0.1.0-rc.8 (2026-08-20) |
 | dsh-llm-inspector | 3 | [cdxiaodong/dsh-llm-inspector](https://github.com/cdxiaodong/dsh-llm-inspector) | 统一 LLM 请求/响应检查器：调 reasoning effort、外部思考(think)导出、流量与包分析 —— DeepSeek Harness 插件 | 0.1.0-rc.8 (2026-08-20) |
