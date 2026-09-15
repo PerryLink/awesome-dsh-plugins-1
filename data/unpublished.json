@@ -6,7 +6,7 @@
   ],
   "checked": "2026-09-15",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 385,
+  "count": 386,
   "packages": [
     {
       "repo": "shililinghu/dsh-file-upload-deepseek-harness-plug-in",
@@ -1357,6 +1357,12 @@
       "npm": "dsh-livis-connector",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "Lee-Si-Yoon/dsh-llm-friendli",
+      "npm": "dsh-llm-friendli",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-09-15"
     },
     {
       "repo": "cdxiaodong/dsh-llm-inspector",
