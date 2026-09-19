@@ -6,7 +6,7 @@
   ],
   "checked": "2026-09-19",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 386,
+  "count": 387,
   "packages": [
     {
       "repo": "shililinghu/dsh-file-upload-deepseek-harness-plug-in",
@@ -37,6 +37,13 @@
       "npm": "@ch4acko3/dsh-ui-workspace",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "winliyou/dsh-plugins",
+      "path": "packages/adaptive-perf",
+      "npm": "@chaoset/adaptive-perf",
+      "why": "no such package",
+      "since": "2026-09-19"
     },
     {
       "repo": "vinyumao/dsh-opencode-usage",
