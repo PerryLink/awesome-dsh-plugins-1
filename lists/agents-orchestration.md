@@ -4,7 +4,7 @@
 
 Subagents, workflows, cross-session coordination.
 
-1115 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
+1116 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
 
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ Subagents, workflows, cross-session coordination.
 | deepseek-harness-neon | 17 | [xinyuquan985-coder/deepseek-harness-neon](https://github.com/xinyuquan985-coder/deepseek-harness-neon) | Cyberpunk multi-agent command center for DeepSeek Harness — Chinese-first conversation, code execution, VS debate and trajectory workbenches. | 0.1.0-rc.8 (2026-08-20) |
 | tizhuang-agent-skills | 17 | [weishao2/tizhuang-agent-skills](https://github.com/weishao2/tizhuang-agent-skills) | 题庄中小学 K12 真题检索、免费抽题、练习测验与智能组卷 DeepSeek Harness 插件。 | 0.1.0-rc.8 (2026-08-20) |
 | deepseek-acp | 16 | [xintaofei/deepseek-acp](https://github.com/xintaofei/deepseek-acp) · [npm](https://www.npmjs.com/package/deepseek-acp) | Editor-facing Agent Client Protocol adapter for DeepSeek Harness | 0.1.0-rc.8 (2026-08-20) |
-| dsh-background-agents | 16 | [PerryLink/dsh-background-agents](https://github.com/PerryLink/dsh-background-agents) · [npm](https://www.npmjs.com/package/dsh-background-agents) | Durable continuable child agents: watch progress in the Web UI sidebar, message anytime, and interrupt through the subagent seam. | 0.1.0-rc.8 (2026-08-20) |
+| dsh-background-agents | 16 | [PerryLink/dsh-background-agents](https://github.com/PerryLink/dsh-background-agents) · [npm](https://www.npmjs.com/package/dsh-background-agents) | Durable continuable child agents: watch progress in the Web UI sidebar, message anytime, and interrupt through the subagent seam. | 0.1.6-alpha.2 (2026-09-20) |
 | dsh-plugin-subagent-director | 16 | [SeverusZh/dsh-plugin-subagent-director](https://github.com/SeverusZh/dsh-plugin-subagent-director) · [npm](https://www.npmjs.com/package/dsh-plugin-subagent-director) | Pick an LLM provider and model per subagent, with role templates and a settings UI. | 0.1.0-rc.8 (2026-08-20) |
 | dsh-sentinel | 16 | [fuhefei/dsh-sentinel](https://github.com/fuhefei/dsh-sentinel) | DSH 哨兵：条件驱动的 agent 唤醒系统——文件/进程/端口/命令传感器，订阅存为会话事件，重启自动复活；每个订阅、每次触发对用户完全可见 | 0.1.0-rc.8 (2026-08-20) |
 | aflare | 15 | [alib8b8/aflare](https://github.com/alib8b8/aflare/tree/HEAD/integrations/dsh-plugin) · [npm](https://www.npmjs.com/package/@alib8b8/dsh-plugin-aflare) | DeepSeek Harness (DSH) Cordis plugin exposing aflare workflow tools | 0.1.0-rc.8 (2026-08-20) |
@@ -687,6 +687,7 @@ Subagents, workflows, cross-session coordination.
 | dsh-swarm-prediction | 1 | [satan9394/dsh-swarm-prediction](https://github.com/satan9394/dsh-swarm-prediction) | 群体智能预测引擎：从种子信息（新闻/政策草案/财务信号）构建高保真平行数字世界，数千个有独立人格/长期记忆/行为逻辑的智能体自由互动与社会演化，上帝视角注入变量推演未来——在数字沙盘里预演未来，无数次模拟后赢得决策。受 666ghj/MiroFish（71k ）启发。 | 0.1.0-rc.8 (2026-08-20) |
 | dsh-task-notifier-yuansour | 1 | [yuan-source-666/dsh-task-notifier](https://github.com/yuan-source-666/dsh-task-notifier) | DeepSeek Harness community plugin that raises an operating-system notification when one of your tasks finishes: an answered turn, a subagent run, a background job, a completed goal, or a settled | 0.1.1-rc.2 (2026-09-01) |
 | dsh-tdd | 1 | [satan9394/dsh-tdd](https://github.com/satan9394/dsh-tdd) | 测试驱动开发：先写失败测试再写实现，Prove-It 模式，测试即证明。受 addyosmani/agent-skills（88k MIT）启发。 | 0.1.0-rc.8 (2026-08-20) |
+| dsh-team-rooms | 1 | [PerryLink/dsh-team-rooms](https://github.com/PerryLink/dsh-team-rooms) · [npm](https://www.npmjs.com/package/dsh-team-rooms) | Team rooms for DeepSeek Harness: persistent shared rooms across independent sessions, with a message bus, a shared task board and a timeline. | 0.1.6-alpha.2 (2026-09-20) |
 | dsh-test-workbench | 1 | [dmsobtl/dsh-test-workbench](https://github.com/dmsobtl/dsh-test-workbench) | 测试工作台 Profile for DeepSeek Harness — 组装 UI 验证、会话分析、视觉路由为一体的 QA Agent。 | 0.1.0-rc.8 (2026-08-20) |
 | dsh-thinking-summary | 1 | [Rosmarinus-Young/dsh-thinking-summary](https://github.com/Rosmarinus-Young/dsh-thinking-summary) | DSH web plugin: 中文思考摘要 — 在原生 Deep diving 状态右侧显示当前计划，并在每段思考下方插入中文摘要卡片（由 deepseek-v4-flash 生成）。 | 0.1.0-rc.8 (2026-08-20) |
 | dsh-timer | 1 | [life1996cou/dsh-timer](https://github.com/life1996cou/dsh-timer) | 定时计划任务：左侧栏开关 + 计划时间框 + 错高峰，到点自动在原会话继续任务（full access） | 0.1.0-rc.8 (2026-08-20) |
