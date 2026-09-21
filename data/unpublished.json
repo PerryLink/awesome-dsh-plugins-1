@@ -6,7 +6,7 @@
   ],
   "checked": "2026-09-21",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 387,
+  "count": 388,
   "packages": [
     {
       "repo": "shililinghu/dsh-file-upload-deepseek-harness-plug-in",
@@ -568,6 +568,13 @@
       "npm": "@mnemon-dev/dsh-mnemon",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "modusensus/dsh-mneme",
+      "path": "dsh-mneme",
+      "npm": "@modusensus/dsh-mneme",
+      "why": "published by slow-stack/dsh-mneme",
+      "since": "2026-09-21"
     },
     {
       "repo": "Momojie-S/dsh-subagent-model",
