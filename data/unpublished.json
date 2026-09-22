@@ -6,8 +6,15 @@
   ],
   "checked": "2026-09-22",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 388,
+  "count": 389,
   "packages": [
+    {
+      "repo": "834063245-creator/HoloGram",
+      "path": "dsh-bundle",
+      "npm": "@a834063245/hologram-dsh",
+      "why": "published by 834063245-creator/lantaiagent",
+      "since": "2026-09-22"
+    },
     {
       "repo": "shililinghu/dsh-file-upload-deepseek-harness-plug-in",
       "npm": "@agent-hub/dsh-workspace-file-upload",
