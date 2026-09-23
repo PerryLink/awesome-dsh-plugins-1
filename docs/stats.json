@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-23",
   "plugins": 13762,
   "authors": 7905,
-  "npm": 2006,
+  "npm": 2004,
   "categories": {
     "bundle": 88,
     "plugin": 13331,
@@ -14,9 +14,9 @@
   "rejected": 2283,
   "rejectedRecheck": 2251,
   "coverage": {
-    "measured": "2026-09-21",
-    "topic": 17865,
-    "decided": 15082,
+    "measured": "2026-09-23",
+    "topic": 18123,
+    "decided": 15059,
     "rejected": 2283,
     "noInstallPath": 2126
   },

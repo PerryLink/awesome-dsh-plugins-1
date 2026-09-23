@@ -4,10 +4,17 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-09-21",
+  "checked": "2026-09-23",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 387,
+  "count": 389,
   "packages": [
+    {
+      "repo": "834063245-creator/HoloGram",
+      "path": "dsh-bundle",
+      "npm": "@a834063245/hologram-dsh",
+      "why": "published by 834063245-creator/lantaiagent",
+      "since": "2026-09-22"
+    },
     {
       "repo": "shililinghu/dsh-file-upload-deepseek-harness-plug-in",
       "npm": "@agent-hub/dsh-workspace-file-upload",
@@ -568,6 +575,13 @@
       "npm": "@mnemon-dev/dsh-mnemon",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "modusensus/dsh-mneme",
+      "path": "dsh-mneme",
+      "npm": "@modusensus/dsh-mneme",
+      "why": "published by slow-stack/dsh-mneme",
+      "since": "2026-09-21"
     },
     {
       "repo": "Momojie-S/dsh-subagent-model",
